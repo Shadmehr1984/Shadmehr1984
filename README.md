@@ -29,5 +29,3 @@ Living in the hell (Iran)
 *Can't wait to dive into these!*
 ---
 (fuck wordpress and essentially k m kh)
-
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40"/>
