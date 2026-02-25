@@ -8,6 +8,7 @@ Living in the hell (Iran)
 
 ## 💭 About Me
 - 💻 very interested about **Databases** (my true love!)
+- i want to become a DBA!
 - 📚 Currently learning the basics
 
 ---
