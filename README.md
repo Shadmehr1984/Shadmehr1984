@@ -47,3 +47,9 @@ Living in the hell (Iran)
 <i class="fab fa-python" style="font-size:40px; color:#3776AB;"></i>
 <i class="fab fa-php" style="font-size:40px; color:#777BB4;"></i>
 <i class="fab fa-java" style="font-size:40px; color:#007396;"></i>
+
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+</p>
