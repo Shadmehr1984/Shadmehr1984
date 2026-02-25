@@ -26,5 +26,5 @@ Living in the hell (Iran)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 *Can't wait to dive into these!*
-
 ---
+- (fuck wordpress and essentialy k m kh)
