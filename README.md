@@ -30,6 +30,4 @@ Living in the hell (Iran)
 ---
 (fuck wordpress and essentially k m kh)
 
-<img src="https://logo.clearbit.com/python.org" width="40"/>
-<img src="https://logo.clearbit.com/php.net" width="40"/>
-<img src="https://logo.clearbit.com/mysql.com" width="40"/>
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40"/>
