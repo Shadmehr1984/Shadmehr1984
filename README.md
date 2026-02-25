@@ -7,7 +7,7 @@
 ---
 
 ## 💭 About Me
-- 💻 very intrested about **Databases** (my true love!)
+- 💻 very interested about **Databases** (my true love!)
 - 📚 Currently learning the basics
 
 ---
