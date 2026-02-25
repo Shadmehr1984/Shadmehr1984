@@ -27,4 +27,4 @@ Living in the hell (Iran)
 
 *Can't wait to dive into these!*
 ---
-- (fuck wordpress and essentialy k m kh)
+(fuck wordpress and essentialy k m kh)
