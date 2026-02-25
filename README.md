@@ -30,8 +30,7 @@ Living in the hell (Iran)
 ---
 (fuck wordpress and essentially k m kh)
 
-
-<img src="https://cdn.simpleicons.org/python/white" width="40" height="40"/>
+src="https://cdn.simpleicons.org/python/white" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/php/777BB4" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40"/>
 
