@@ -30,35 +30,6 @@ Living in the hell (Iran)
 ---
 (fuck wordpress and essentially k m kh)
 
-src="https://cdn.simpleicons.org/python/white" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/php/777BB4" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40"/>
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-<img src="https://skillicons.dev/icons?i=python,php,java,mysql,linux,laravel" />
-
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-
-<i class="fab fa-python" style="font-size:40px; color:#3776AB;"></i>
-<i class="fab fa-php" style="font-size:40px; color:#777BB4;"></i>
-<i class="fab fa-java" style="font-size:40px; color:#007396;"></i>
-
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-</p>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-
-<i class="fab fa-python" style="font-size:40px; color:#3776AB;"></i>
-<i class="fab fa-php" style="font-size:40px; color:#777BB4;"></i>
-<i class="fab fa-java" style="font-size:40px; color:#007396;"></i>
-
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/php.png"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
