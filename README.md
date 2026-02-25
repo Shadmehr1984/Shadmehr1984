@@ -53,3 +53,13 @@ Living in the hell (Iran)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 </p>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+<i class="fab fa-python" style="font-size:40px; color:#3776AB;"></i>
+<i class="fab fa-php" style="font-size:40px; color:#777BB4;"></i>
+<i class="fab fa-java" style="font-size:40px; color:#007396;"></i>
+
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/php.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
