@@ -30,6 +30,4 @@ Living in the hell (Iran)
 ---
 (fuck wordpress and essentially k m kh)
 
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/php.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img src="https://github.com/ikatyang/icon-marathon/blob/main/icons/python.png?raw=true" width="40"/>
