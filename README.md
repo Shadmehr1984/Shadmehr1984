@@ -2,7 +2,7 @@
 
 ##  I'm Shadmehr
 **Born:** 20 April 2005  
-** Location:** Living in the hell (Iran) 
+Living in the hell (Iran) 
 
 ---
 
