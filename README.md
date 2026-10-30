@@ -34,7 +34,5 @@ Living in the hell (Iran)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-Rust is on my future learning roadmap.
-
 ---
 (fuck wordpress and essentially k m kh)
